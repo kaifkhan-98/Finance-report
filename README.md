@@ -44,4 +44,4 @@ Dynamic visuals update instantly based on selected filters.
 
 6. Screenshort / Demos
 Show what the dashboard look like.
-Exanple:
+Exanple:-https://github.com/kaifkhan-98/Finance-report/blob/main/Financial%20Overview.png
